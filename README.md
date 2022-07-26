@@ -17,4 +17,3 @@ Please use the mirror of https://nextcloud.nauzome.org/s/8i72qkgYgtMPWP3 .
 If Skype specifies an unclear license, we will delete it.
 
 The license is absolute.
-# skype_emoji
